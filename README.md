@@ -1,1 +1,1 @@
-This repository is all about how to create a portfolio website
+This repository contains the code that how to create a Portfolio website.
